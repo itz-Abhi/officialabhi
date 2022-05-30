@@ -1,0 +1,19 @@
+div p.abhi {
+    color: black;
+    background-color: red;
+    align-content: center;
+}
+
+div p.web {
+    color: black;
+    background-color: red;
+    align-content: center;
+}
+
+article>p {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(26, 114, 89);
+    color: white;
+    border-color: black;
+    align-self: center;
+}
