@@ -17,3 +17,11 @@ article>p {
     border-color: black;
     align-self: center;
 }
+
+header li:hover,
+header li:active {
+    background-color: rgb(143, 158, 69);
+    color: forestgreen;
+    border-radius: 8px;
+    border-color: black;
+}
